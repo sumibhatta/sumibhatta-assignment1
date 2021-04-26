@@ -1,0 +1,171 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* Top Nav */
+.top-nav-wrapper, .bottom-nav-wrapper, .footer-wrapper{
+    width: 100%;
+    padding: 0px 22px 15px 19px;
+
+}
+
+.container{
+    width: 960px;
+margin: 0 auto;
+}
+.top-nav{
+    display: inline-block;
+}
+
+.search-wrapper{
+    position: absolute;
+    margin-top: 18px;
+}
+
+
+
+.nav-wrapper li, .footer-nav li{
+    display: inline-block;
+}
+
+.user-nav-wrapper{
+    float: right;
+font-weight: bold;
+font-size: 14px;
+margin: 14px 0 0 0;
+text-align: end;
+}
+
+
+/* Top Nav ends */
+/* Bottom Nav */
+.bottom-nav-wrapper{
+    padding-top: 15px;
+    font-size: 13px;
+}
+.notifications{
+    float: right;
+}
+.left-options{
+    display: inline-block;
+}
+
+.header-bottom-container li{
+    padding-left: 20px;
+
+}
+.middle-wrapper{
+    width: 960px;
+    margin: 30px auto;
+}
+
+.active{
+    background-color: #fff;
+}
+.recent-search ul li a:first-child {
+	float: left;
+    width: 150px;
+    padding: 10px 7px;
+}
+
+.recent-search ul li a:last-child {
+	float: right;
+    width: 26px;
+    padding: 10px 0;
+    
+}
+
+.right-list li{
+    margin-bottom: 0;
+}
+.right-list ul li{
+    padding: 13px 20px;
+}
+.left-container{
+    width: 230px;
+    float: left;
+}
+.left-container .recent-search ul li a{
+
+}
+
+.middle-container{
+    width: 520px;
+    display: inline-block;
+    margin-left: 14px;
+}
+
+
+.right-container{
+    float: right;
+}
+
+
+/* Middle Container */
+.sec-nav-items li a{
+    float: left;
+}
+.secondary-nav-wrapper{
+    background-image: url('../images/background-sec-nav.png');
+}
+
+
+.member{
+    float: left;
+    margin-right: 10px;
+}
+.member-info{
+    border-bottom: 2px solid gray;
+}
+
+.about-user li a{
+    float: left;
+}
+
+.tip-top{
+    width: 260px;
+    padding: 0 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+.all-entry{
+    display: inline-block;
+}
+.suscribed{
+    float: right;
+}
+
+.active-nav a{
+    background-image: url('../images/background-second-nav-active.png');
+    width: 114px;
+    height: 28px;
+    margin-right: 6px;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 5px;
+
+}
+
+.passive-nav a{
+    background-image: url('../images/background-second-nav-inactive.png');
+    width: 114px;
+    height: 28px;
+    margin-right: 6px;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 5px;
+
+
+}
+/* Middle Container Ends */
+/* Middle wapper ends */
+/* Footer */
+.footer-wrapper{
+
+}
+
+.footer-nav{
+    display: inline-block;
+}
+
